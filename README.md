@@ -7,6 +7,3 @@ s: hi
 
 
 O:hlw
-
-s: i am shek
-
